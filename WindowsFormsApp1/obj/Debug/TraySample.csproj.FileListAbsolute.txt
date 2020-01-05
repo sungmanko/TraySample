@@ -1,0 +1,28 @@
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TraySample.exe.config
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TraySample.exe
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TraySample.pdb
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TraySample.Properties.Resources.resources
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TraySample.csproj.GenerateResource.cache
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TraySample.csproj.CoreCompileInputs.cache
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TraySample.exe
+C:\Users\kangf\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TraySample.pdb
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\bin\Debug\TraySample.exe.config
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\bin\Debug\TraySample.exe
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\bin\Debug\TraySample.pdb
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\obj\Debug\TraySample.Properties.Resources.resources
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\obj\Debug\TraySample.csproj.GenerateResource.cache
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\obj\Debug\TraySample.csproj.CoreCompileInputs.cache
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\obj\Debug\TraySample.exe
+C:\Users\kangf\Desktop\SP架電システム\20. source\TraySample\WindowsFormsApp1\obj\Debug\TraySample.pdb
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\bin\Debug\TraySample.exe.config
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\bin\Debug\TraySample.exe
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\bin\Debug\TraySample.pdb
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\obj\Debug\TraySample.csprojAssemblyReference.cache
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\obj\Debug\TraySample.Properties.Resources.resources
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\obj\Debug\TraySample.csproj.GenerateResource.cache
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\obj\Debug\TraySample.csproj.CoreCompileInputs.cache
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\obj\Debug\TraySample.exe
+C:\Users\kangf\Desktop\TOSUN\20. プロジェクト\02. 2020-SaferPayment\20. ソース\TraySample\WindowsFormsApp1\obj\Debug\TraySample.pdb
